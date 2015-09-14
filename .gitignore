@@ -16,6 +16,7 @@ out/
 # Gradle files
 .gradle/
 build/
+/*/build/
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -48,3 +49,6 @@ gen-external-apklibs/
 
 # Emacs
 *~/build
+
+# Log Files
+*.log
